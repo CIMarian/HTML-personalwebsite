@@ -1,0 +1,15 @@
+h1 {
+  color: rgb(196, 240, 114);
+  text-align: center;
+  font-family:sans-serif ;
+}
+h2 {
+  color: brown;
+}
+h3 {
+  color: indianred;
+}
+
+body {
+  background-color:rgb(199, 191, 180);
+}
